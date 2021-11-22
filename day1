@@ -1,0 +1,4 @@
+#İlk Python Projem
+#Ekrandan Veri Oku
+ad=input("Lütfen Adınızı Girin :")
+print("merhaba",ad)
